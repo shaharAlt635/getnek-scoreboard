@@ -15,6 +15,7 @@ CreateThread(function()
 
         Wait(5)
     end
+    print("asdasdas")
 end)
 
 CreateThread(function()
